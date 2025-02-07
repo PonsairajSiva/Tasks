@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. Clone the Repository
 
    ```sh
-   git clone "this repositary"
+   git clone https://github.com/PonsairajSiva/Tasks.git
    cd task-1
    ```
 
