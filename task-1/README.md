@@ -52,11 +52,7 @@ Ensure you have the following installed:
 ```
 task-1/
 │-- src/
-│   │-- components/
-│   │   │-- Card.js
-│   │   │-- Button.js
-│   │-- pages/
-│   │   │-- BlogPage.js
+│   │-- BlogPage.js
 │   │-- App.js
 │   │-- index.js
 │-- public/
